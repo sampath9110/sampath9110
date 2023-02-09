@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sam</h1>
-<h3 align="center">eA passionate frontend developer from India,competative python programmer</h3>
+<h3 align="center">A passionate frontend developer from India,competative python programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampath9110&label=Profile%20views&color=0e75b6&style=flat" alt="sampath9110" /> </p>
 
